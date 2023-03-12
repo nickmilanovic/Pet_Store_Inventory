@@ -1,0 +1,50 @@
+/*
+StAuth10244: I Nichoals Milanovic, 000292701 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else.
+*/
+
+td, tr, th, table { 
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  text-align: center;
+  width: 50%;
+  margin-left: 25em;
+}
+
+input[type=text]{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  text-align: center;
+  font-size: 20px;
+  box-sizing: border-box;
+}
+
+input[type=number]{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  text-align: center;
+  font-size: 20px;
+  box-sizing: border-box;
+}
+
+body, button {
+  font-size: 20px;
+}
+
+#filteredTable{
+  border-collapse: collapse;
+  text-align: center;
+  width: 50%;
+  margin-left: 25em;
+}
+
+
+html{
+  text-align: center;
+}
